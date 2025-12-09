@@ -1,0 +1,40 @@
+id,data_hora,tipo_ocorrencia,subtipo_ocorrencia,bairro,genero,latitude,longitude,qtd_total_vitimas,vitimas_fatais,tempo_resposta,gravidade,incendio_grupo,incendio_consumo_agua,usou_hidrante
+1,2025-01-15 14:30:00,Salvamento,Ataque de Tubarão (Surfista),Boa Viagem,M,-8.125,-34.899,1,1,12,Alta,,,0
+2,2025-02-20 10:00:00,Salvamento,Afogamento (Correnteza),Pina,M,-8.098,-34.887,1,0,8,Média,,,0
+3,2025-03-05 16:00:00,Salvamento,Ataque de Tubarão (Banho Fundo),Piedade,M,-8.165,-34.91,1,0,15,Alta,,,0
+4,2025-04-12 11:45:00,Salvamento,Afogamento Criança,Boa Viagem,F,-8.113,-34.891,1,0,5,Alta,,,0
+5,2025-07-22 15:20:00,Salvamento,Ataque de Tubarão,Boa Viagem,M,-8.13,-34.901,1,1,10,Alta,,,0
+6,2025-09-07 13:00:00,Salvamento,Afogamento (Bebida Alcoólica),Pina,M,-8.095,-34.885,2,1,18,Alta,,,0
+7,2025-02-10 10:00:00,Incêndio,Vazamento de Gás (GLP),Recife Antigo,F,-8.063,-34.871,2,0,15,Alta,edificacao,5000.0,1
+8,2025-06-23 23:30:00,Incêndio,Fogueira (São João),Cordeiro,M,-8.048,-34.925,0,0,10,Média,vegetacao,1500.0,0
+9,2025-06-24 14:00:00,Incêndio,Vegetação (Sol),Ibura,,-8.135,-34.93,0,0,45,Alta,vegetacao,10000.0,1
+10,2025-03-15 12:30:00,Incêndio,Explosão de Gás,Boa Vista,M,-8.06,-34.88,3,1,20,Alta,edificacao,8000.0,1
+11,2025-01-02 10:00:00,Salvamento,Afogamento (Correnteza),Boa Viagem,M,-8.113,-34.891,1,0,8,Média,,,0
+12,2025-01-05 14:30:00,Salvamento,Afogamento (Bebida Alcoólica),Pina,M,-8.095,-34.885,2,0,12,Alta,,,0
+13,2025-01-08 09:15:00,Salvamento,Afogamento Criança,Piedade,F,-8.165,-34.91,1,0,5,Alta,,,0
+14,2025-01-12 16:00:00,Salvamento,Afogamento (Surfista),Boa Viagem,M,-8.125,-34.899,1,0,15,Média,,,0
+15,2025-01-15 11:00:00,Salvamento,Afogamento,Brasília Teimosa,M,-8.085,-34.88,3,1,20,Alta,,,0
+16,2025-01-20 15:45:00,Salvamento,Afogamento (Correnteza),Pina,F,-8.098,-34.887,1,0,10,Baixa,,,0
+17,2025-01-10 13:00:00,Salvamento,Ataque de Tubarão,Piedade,M,-8.168,-34.912,1,1,10,Alta,,,0
+18,2025-01-18 12:30:00,Salvamento,Ataque de Tubarão (Banho Fundo),Boa Viagem,M,-8.13,-34.901,1,1,8,Alta,,,0
+19,2025-01-25 09:00:00,Salvamento,Avistamento de Tubarão,Pina,M,-8.095,-34.885,0,0,15,Baixa,,,0
+20,2025-01-28 14:00:00,Salvamento,Ataque de Tubarão (Surfista),Boa Viagem,M,-8.12,-34.9,1,0,12,Alta,,,0
+21,2025-01-05 13:00:00,Incêndio,Vegetação (Sol),Ibura,,-8.135,-34.93,0,0,30,Média,vegetacao,5000.0,1
+22,2025-01-06 14:00:00,Incêndio,Vegetação (Sol),Várzea,,-8.038,-34.96,0,0,45,Alta,vegetacao,8000.0,1
+23,2025-01-15 12:00:00,Incêndio,Vegetação (Terreno Baldio),Curado,,-8.07,-34.95,0,0,25,Média,vegetacao,3000.0,0
+24,2025-01-20 10:30:00,Incêndio,Vegetação Seca,Caxangá,,-8.04,-34.94,0,0,20,Baixa,vegetacao,2000.0,0
+25,2025-01-25 15:00:00,Incêndio,Vegetação (Sol),Ibura,,-8.132,-34.931,0,0,50,Alta,vegetacao,12000.0,1
+26,2025-06-23 18:00:00,Incêndio,Fogueira Descontrolada,Casa Amarela,,-8.025,-34.91,1,0,15,Baixa,vegetacao,1000.0,0
+27,2025-06-23 20:00:00,Incêndio,Fogueira Próxima a Casa,Cordeiro,,-8.048,-34.925,0,0,10,Média,edificacao,2000.0,0
+28,2025-06-23 22:30:00,Incêndio,Balão em Telhado,Espinheiro,,-8.045,-34.895,2,0,20,Alta,edificacao,5000.0,1
+29,2025-06-24 00:15:00,Incêndio,Fogos de Artifício,Boa Viagem,,-8.115,-34.892,1,0,12,Média,descarte,500.0,0
+30,2025-06-24 02:00:00,Incêndio,Balão em Vegetação,Várzea,,-8.039,-34.965,0,0,40,Alta,vegetacao,9000.0,1
+31,2025-06-28 19:00:00,Incêndio,Fogueira,Ibura,,-8.135,-34.93,0,0,18,Média,vegetacao,2500.0,0
+32,2025-03-10 11:00:00,Incêndio,Vazamento de Gás (GLP),Recife Antigo,,-8.063,-34.871,0,0,15,Média,edificacao,3000.0,1
+33,2025-04-12 19:00:00,Incêndio,Gás de Cozinha,Boa Vista,,-8.06,-34.88,2,0,25,Alta,edificacao,6000.0,1
+34,2025-08-05 08:00:00,Incêndio,Vazamento Industrial,Santo Amaro,,-8.05,-34.89,0,0,30,Alta,edificacao,8000.0,1
+35,2025-02-15 08:30:00,Colisão,Colisão Carro x Moto,Boa Viagem,M,-8.12,-34.9,1,0,10,Média,,,0
+36,2025-05-20 18:00:00,Colisão,Atropelamento,Afogados,F,-8.075,-34.905,1,1,12,Alta,,,0
+37,2025-09-10 14:00:00,Salvamento,Pessoa Presa Elevador,Derby,F,-8.058,-34.9,1,0,20,Baixa,,,0
+38,2025-10-12 10:00:00,Salvamento,Criança Presa em Grade,Casa Amarela,M,-8.025,-34.91,1,0,15,Baixa,,,0
+39,2025-11-02 07:00:00,Salvamento,Gato em Árvore,Graças,,-8.043,-34.902,0,0,30,Baixa,,,0
